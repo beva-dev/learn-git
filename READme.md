@@ -1,2 +1,2 @@
 # Introduction Git
-git push : envoi sur les modifs
+git push -u : push sur github dans repo courant branche master le READme

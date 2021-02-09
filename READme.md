@@ -1,2 +1,2 @@
 # Introduction Git
-git status : montrer chemins des fichiers voir l'état
+git commit : validation de ce qu'on a fait avec la description ""

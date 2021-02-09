@@ -1,2 +1,2 @@
 # Introduction Git
-git push -u : push sur github dans repo courant branche master le READme
+git remote : add origin pour se connecter au repo avec url

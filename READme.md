@@ -1,2 +1,2 @@
 # Introduction Git
-git add-N : indexer sans l'ajouter
+git add : ajout des fichiers à l'index

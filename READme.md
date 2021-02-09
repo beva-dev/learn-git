@@ -1,2 +1,2 @@
 # Introduction Git
-git add : ajout des fichiers à l'index
+git push : envoi sur les modifs
